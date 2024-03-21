@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Bongumsa. I am from the Durban University of Technology. I am currently taking a Bachelor of Engineering Technology in Electronics Engineering.
+My name is Bongumsa. I am from the Durban University of Technology and I am currently taking a Bachelor of Engineering Technology in Electronics Engineering.
 
-I have a huge interest in back-end and front-end development in software engineering. I am currently learning, React, Typescript, Redux, and MongoDB to complete my full-stack development skills.
+I have a huge interest in full-stack development in software engineering. I am currently learning React, Typescript, Redux, and MongoDB to complete my full-stack development skills.
 
 I love bringing my ideas to life with software and electronics engineering. I would also love to collaborate with other developers on their projects to solidify my teamwork skills.
 
