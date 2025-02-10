@@ -6,7 +6,6 @@ My name is Bongumsa. I have just completed my Bachelor's degree in Electronics a
 - 🧰 C programming, Python, MySQL, JavaScript, HTML, CSS, VS Code, STM32Cude IDE, GitHub and Git, Arduino IDE, Blender, MATLAB
 - 🔭 I’m currently working on this page and building my portfolio website.
 - 🌱 I’m currently advancing my knowledge in JS, Kotlin, and MySQL. 
-- 👯 I’m looking to collaborate on full-stack web development, embedded systems programming, circuit design, and android development projects
+- 👯 I’m looking to collaborate on full-stack web development, embedded systems programming, and circuit design
 - 💬 Ask me about javascript full-stack development, embedded systems programming, and circuit design
 - 📫 How to reach me: X (Twitter) -> @bongumsa121
-- 😄 Pronouns: he/him
